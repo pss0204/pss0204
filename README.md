@@ -1,29 +1,32 @@
 # Hi there, I'm Seongsu (Sam) Park! 👋
 
-I am a **Test Engineer** specialized in semiconductor device testing and data analysis.  
-My experience includes resolving complex test issues, optimizing workflows, and managing various tester equipment in the semiconductor field.
+I am a **Test Engineer** with expertise in **DDI (Display Driver IC) product testing**, data analysis, and **custom tool development**.  
+Starting from **July 2024**, I will be pursuing a **Master’s degree in Electronic Engineering** at **Ajou University**, focusing on advanced semiconductor technologies and system optimization.
 
-### 🛠️ Skills & Interests
-- **Programming**: C, Python
-- **Data Analysis**: UNIX-based UI transplantation, real-time data handling
-- **Semiconductor Testing**: Yokogawa ST6730, Advan ND2-4 Tester, Probe card bin fail resolution
-- **Tools**: Acretec UF Prober (Z value, AM value), Semes IP
-- **Interests**: Semiconductor engineering, hardware-software integration, and continuous learning
+### 🛠️ Skills
+- **Programming**: C, C++, Python
+- **Hardware Description & Implementation**: Chisel, FPGA
+- **Data Analysis**: TIBCO Spotfire, Excel VBA
 
 ### 🌱 Experiences
 - **STECO (2023.07 ~ 2024.07)**  
-  - Resolved probe card bin fails and improved test workflows  
-  - Transplanted a UNIX-based data analysis UI for more efficient monitoring  
-  - Set up facilities such as Semes IP and Acretec UF Prober (Z, AM values)
+  - Took charge of **DDI (Display Driver IC) product** testing  
+  - Developed a **UNIX-based application for real-time EDS test data analysis** as a solo developer  
+  - Designed a custom **wafer map analysis tool** to visualize and analyze semiconductor test data  
+    - Enabled easy identification of defective regions on wafers with dynamic color mapping  
+    - Provided engineers with actionable insights through automated visualization tools like the one shown below:
+    
+    ![Wafer Map Example](./path/to/your/image.png) *(Replace with actual image path on GitHub)*
 
 ### 🌏 Languages
 - **English**: Advanced (Professional working proficiency)
 - **Japanese**: Intermediate (Limited working proficiency)
 
 ### 🚀 Goals
-- Continue advancing in **Semiconductor Engineering** and **Data Analysis**
-- Expand knowledge of test automation and result interpretation
-- Collaborate with global tech teams to develop cutting-edge solutions
+
+
+### 💡 Interests
+
 
 ### 📫 How to Reach Me
 - **LinkedIn**: [Seongsu Park](https://www.linkedin.com/in/seongsu-park-263774273/)
