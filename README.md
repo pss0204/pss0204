@@ -5,7 +5,7 @@ Starting from **July 2024**, I will be pursuing a **Master’s degree in Electro
 ### 🛠️ Skills
 - **Programming**: C, C++, Python
 - **Hardware Description & Implementation**: Chisel, FPGA
-- **Data Analysis**: TIBCO Spotfire, Excel VBA
+- **Tools**: Linux,UNIX,TIBCO Spotfire, Excel VBA
 
 ### 🌱 Experiences
 - **STECO (2023.07 ~ 2024.07)**  
