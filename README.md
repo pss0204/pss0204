@@ -22,8 +22,8 @@ With a background in **Display Engineering** (Dankook University), I excel at re
   - Hands-on projects with C and Python
 
 ### 🌏 Languages
-- **English**: Advanced (Professional working proficiency)
-- **Japanese**: Intermediate (Limited working proficiency)
+- **English**: Advanced (Professional working proficiency,OPIC AL)
+- **Japanese**: Intermediate (Limited working proficiency,JLPT N3)
 
 ### 🚀 Goals
 - Continue advancing in **Semiconductor Engineering** and **Data Analysis**
