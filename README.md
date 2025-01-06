@@ -1,8 +1,7 @@
-
 # Hi there, I'm Seongsu (Sam) Park! 👋
 
 I am a **Test Engineer** specialized in semiconductor device testing and data analysis.  
-With a background in **Display Engineering** (Dankook University), I excel at resolving complex test issues and optimizing processes for better efficiency.
+My experience includes resolving complex test issues, optimizing workflows, and managing various tester equipment in the semiconductor field.
 
 ### 🛠️ Skills & Interests
 - **Programming**: C, Python
@@ -17,13 +16,9 @@ With a background in **Display Engineering** (Dankook University), I excel at re
   - Transplanted a UNIX-based data analysis UI for more efficient monitoring  
   - Set up facilities such as Semes IP and Acretec UF Prober (Z, AM values)
 
-- **Academic**  
-  - **B.S. in Display Engineering**, Dankook University (2018.03 ~ 2023.08)  
-  - Hands-on projects with C and Python
-
 ### 🌏 Languages
-- **English**: Advanced (Professional working proficiency,OPIC AL)
-- **Japanese**: Intermediate (Limited working proficiency,JLPT N3)
+- **English**: Advanced (Professional working proficiency)
+- **Japanese**: Intermediate (Limited working proficiency)
 
 ### 🚀 Goals
 - Continue advancing in **Semiconductor Engineering** and **Data Analysis**
