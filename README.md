@@ -1,8 +1,7 @@
 # Hi there, I'm Seongsu (Sam) Park! 👋
 
 I am a **Test Engineer** with expertise in **DDI (Display Driver IC) product testing**, data analysis, and **custom tool development**.  
-Starting from **July 2024**, I will be pursuing a **Master’s degree in Electronic Engineering** at **Ajou University**, focusing on advanced semiconductor technologies and system optimization.
-
+Starting from **July 2024**, I will be pursuing a **Master’s degree in Electronic Engineering** at **Ajou University**
 ### 🛠️ Skills
 - **Programming**: C, C++, Python
 - **Hardware Description & Implementation**: Chisel, FPGA
@@ -31,6 +30,6 @@ Starting from **July 2024**, I will be pursuing a **Master’s degree in Electro
 **???**
 
 ### 📫 How to Reach Me
-- **LinkedIn**: [Seongsu Park](https://www.linkedin.com/in/seongsu-park-263774273/)  
-- **GitHub**: [Your GitHub Profile](#)  
+- **LinkedIn**:**???**
+- **GitHub**:**???** 
 - **Email**: **???**
